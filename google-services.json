@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521846676232",
+    "project_id": "rent-d3881",
+    "storage_bucket": "rent-d3881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521846676232:android:8428c4a19a601d3b032abd",
+        "android_client_info": {
+          "package_name": "com.batmandev.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7bx5GmtW5lkGAi_AlrE984RyDx6qsgM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
